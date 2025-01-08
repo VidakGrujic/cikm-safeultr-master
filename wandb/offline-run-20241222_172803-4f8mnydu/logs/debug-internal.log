@@ -1,0 +1,15 @@
+{"time":"2024-12-22T17:28:03.9649332+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-22T17:28:03.9649332+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Vidak\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20241222_172803-4f8mnydu\\logs\\debug-core.log"}
+{"time":"2024-12-22T17:28:04.239305+01:00","level":"INFO","msg":"created new stream","id":"4f8mnydu"}
+{"time":"2024-12-22T17:28:04.239305+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"4f8mnydu"}
+{"time":"2024-12-22T17:28:04.2398079+01:00","level":"INFO","msg":"stream: started","id":"4f8mnydu"}
+{"time":"2024-12-22T17:28:04.239305+01:00","level":"INFO","msg":"handler: started","stream_id":"4f8mnydu"}
+{"time":"2024-12-22T17:28:04.2398913+01:00","level":"INFO","msg":"sender: started","stream_id":"4f8mnydu"}
+{"time":"2024-12-22T17:28:04.2495439+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-22T17:39:20.6068304+01:00","level":"INFO","msg":"stream: closing","id":"4f8mnydu"}
+{"time":"2024-12-22T17:39:20.6088749+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-22T17:39:20.6201318+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-22T17:39:20.6251133+01:00","level":"INFO","msg":"handler: closed","stream_id":"4f8mnydu"}
+{"time":"2024-12-22T17:39:20.6251133+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4f8mnydu"}
+{"time":"2024-12-22T17:39:20.6261108+01:00","level":"INFO","msg":"sender: closed","stream_id":"4f8mnydu"}
+{"time":"2024-12-22T17:39:20.627109+01:00","level":"INFO","msg":"stream: closed","id":"4f8mnydu"}

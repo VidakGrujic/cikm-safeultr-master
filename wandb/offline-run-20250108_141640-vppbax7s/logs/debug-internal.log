@@ -1,0 +1,8 @@
+{"time":"2025-01-08T14:16:40.4494226+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-08T14:16:40.4494226+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250108_141640-vppbax7s\\logs\\debug-core.log"}
+{"time":"2025-01-08T14:16:40.6463327+01:00","level":"INFO","msg":"created new stream","id":"vppbax7s"}
+{"time":"2025-01-08T14:16:40.6463327+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"vppbax7s"}
+{"time":"2025-01-08T14:16:40.6469451+01:00","level":"INFO","msg":"stream: started","id":"vppbax7s"}
+{"time":"2025-01-08T14:16:40.6469451+01:00","level":"INFO","msg":"handler: started","stream_id":"vppbax7s"}
+{"time":"2025-01-08T14:16:40.6469451+01:00","level":"INFO","msg":"sender: started","stream_id":"vppbax7s"}
+{"time":"2025-01-08T14:16:40.6623141+01:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,15 @@
+{"time":"2024-12-21T23:19:39.3009049+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-21T23:19:39.3009049+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Vidak\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20241221_231939-6x0gs10i\\logs\\debug-core.log"}
+{"time":"2024-12-21T23:19:39.4106522+01:00","level":"INFO","msg":"created new stream","id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.4111587+01:00","level":"INFO","msg":"stream: started","id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.4111587+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.4111855+01:00","level":"INFO","msg":"sender: started","stream_id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.4111855+01:00","level":"INFO","msg":"handler: started","stream_id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.4214487+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-21T23:19:39.7158526+01:00","level":"INFO","msg":"stream: closing","id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.7158526+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-21T23:19:39.7163658+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-21T23:19:39.7163658+01:00","level":"INFO","msg":"handler: closed","stream_id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.7163658+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.7163658+01:00","level":"INFO","msg":"sender: closed","stream_id":"6x0gs10i"}
+{"time":"2024-12-21T23:19:39.7163658+01:00","level":"INFO","msg":"stream: closed","id":"6x0gs10i"}

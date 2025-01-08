@@ -1,0 +1,8 @@
+{"time":"2024-12-22T19:52:00.5020446+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-22T19:52:00.5020446+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Vidak\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20241222_195200-dviuwcib\\logs\\debug-core.log"}
+{"time":"2024-12-22T19:52:00.6101311+01:00","level":"INFO","msg":"created new stream","id":"dviuwcib"}
+{"time":"2024-12-22T19:52:00.6101311+01:00","level":"INFO","msg":"stream: started","id":"dviuwcib"}
+{"time":"2024-12-22T19:52:00.6101311+01:00","level":"INFO","msg":"sender: started","stream_id":"dviuwcib"}
+{"time":"2024-12-22T19:52:00.6101311+01:00","level":"INFO","msg":"handler: started","stream_id":"dviuwcib"}
+{"time":"2024-12-22T19:52:00.6101311+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"dviuwcib"}
+{"time":"2024-12-22T19:52:00.620099+01:00","level":"INFO","msg":"Starting system monitor"}

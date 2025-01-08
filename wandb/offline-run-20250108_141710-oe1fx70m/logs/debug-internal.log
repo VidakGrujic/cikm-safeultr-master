@@ -1,0 +1,8 @@
+{"time":"2025-01-08T14:17:10.6341877+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-08T14:17:10.6341877+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250108_141710-oe1fx70m\\logs\\debug-core.log"}
+{"time":"2025-01-08T14:17:10.7431124+01:00","level":"INFO","msg":"created new stream","id":"oe1fx70m"}
+{"time":"2025-01-08T14:17:10.7431124+01:00","level":"INFO","msg":"stream: started","id":"oe1fx70m"}
+{"time":"2025-01-08T14:17:10.7431124+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"oe1fx70m"}
+{"time":"2025-01-08T14:17:10.7431124+01:00","level":"INFO","msg":"sender: started","stream_id":"oe1fx70m"}
+{"time":"2025-01-08T14:17:10.7431124+01:00","level":"INFO","msg":"handler: started","stream_id":"oe1fx70m"}
+{"time":"2025-01-08T14:17:10.7508976+01:00","level":"INFO","msg":"Starting system monitor"}

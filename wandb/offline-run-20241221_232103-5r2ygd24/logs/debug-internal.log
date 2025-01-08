@@ -1,0 +1,15 @@
+{"time":"2024-12-21T23:21:03.103307+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-21T23:21:03.103307+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Vidak\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20241221_232103-5r2ygd24\\logs\\debug-core.log"}
+{"time":"2024-12-21T23:21:03.2128251+01:00","level":"INFO","msg":"created new stream","id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.2128251+01:00","level":"INFO","msg":"stream: started","id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.2128251+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.2128251+01:00","level":"INFO","msg":"sender: started","stream_id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.2128251+01:00","level":"INFO","msg":"handler: started","stream_id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.2232624+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-21T23:21:03.510279+01:00","level":"INFO","msg":"stream: closing","id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.510279+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-21T23:21:03.5109096+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-21T23:21:03.5109096+01:00","level":"INFO","msg":"handler: closed","stream_id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.5109096+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.5109096+01:00","level":"INFO","msg":"sender: closed","stream_id":"5r2ygd24"}
+{"time":"2024-12-21T23:21:03.5109096+01:00","level":"INFO","msg":"stream: closed","id":"5r2ygd24"}

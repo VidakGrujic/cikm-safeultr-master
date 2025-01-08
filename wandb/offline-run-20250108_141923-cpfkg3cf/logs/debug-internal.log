@@ -1,0 +1,15 @@
+{"time":"2025-01-08T14:19:23.2801691+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-08T14:19:23.2801691+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250108_141923-cpfkg3cf\\logs\\debug-core.log"}
+{"time":"2025-01-08T14:19:23.3878073+01:00","level":"INFO","msg":"created new stream","id":"cpfkg3cf"}
+{"time":"2025-01-08T14:19:23.3883112+01:00","level":"INFO","msg":"stream: started","id":"cpfkg3cf"}
+{"time":"2025-01-08T14:19:23.3884766+01:00","level":"INFO","msg":"handler: started","stream_id":"cpfkg3cf"}
+{"time":"2025-01-08T14:19:23.3883112+01:00","level":"INFO","msg":"sender: started","stream_id":"cpfkg3cf"}
+{"time":"2025-01-08T14:19:23.3884766+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"cpfkg3cf"}
+{"time":"2025-01-08T14:19:23.3967406+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-08T14:20:09.6341925+01:00","level":"INFO","msg":"stream: closing","id":"cpfkg3cf"}
+{"time":"2025-01-08T14:20:09.6352194+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-08T14:20:09.6367549+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-08T14:20:09.6382861+01:00","level":"INFO","msg":"handler: closed","stream_id":"cpfkg3cf"}
+{"time":"2025-01-08T14:20:09.6382861+01:00","level":"INFO","msg":"sender: closed","stream_id":"cpfkg3cf"}
+{"time":"2025-01-08T14:20:09.6382861+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cpfkg3cf"}
+{"time":"2025-01-08T14:20:09.6382861+01:00","level":"INFO","msg":"stream: closed","id":"cpfkg3cf"}
