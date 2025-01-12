@@ -1,0 +1,17 @@
+{"time":"2025-01-11T09:50:05.7562739+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-11T09:50:05.7562739+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250111_095005-xcxp94r2\\logs\\debug-core.log"}
+{"time":"2025-01-11T09:50:05.8659525+01:00","level":"INFO","msg":"created new stream","id":"xcxp94r2"}
+{"time":"2025-01-11T09:50:05.8668689+01:00","level":"INFO","msg":"stream: started","id":"xcxp94r2"}
+{"time":"2025-01-11T09:50:05.8668689+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"xcxp94r2"}
+{"time":"2025-01-11T09:50:05.8668689+01:00","level":"INFO","msg":"handler: started","stream_id":"xcxp94r2"}
+{"time":"2025-01-11T09:50:05.8668689+01:00","level":"INFO","msg":"sender: started","stream_id":"xcxp94r2"}
+{"time":"2025-01-11T09:50:05.8772655+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-11T09:50:45.8773654+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-11T09:50:45.8827605+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 15424"}
+{"time":"2025-01-11T09:51:17.8572097+01:00","level":"INFO","msg":"stream: closing","id":"xcxp94r2"}
+{"time":"2025-01-11T09:51:17.8577276+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-11T09:51:17.858842+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-11T09:51:17.8593751+01:00","level":"INFO","msg":"handler: closed","stream_id":"xcxp94r2"}
+{"time":"2025-01-11T09:51:17.8605109+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xcxp94r2"}
+{"time":"2025-01-11T09:51:17.8786017+01:00","level":"INFO","msg":"sender: closed","stream_id":"xcxp94r2"}
+{"time":"2025-01-11T09:51:17.8796484+01:00","level":"INFO","msg":"stream: closed","id":"xcxp94r2"}

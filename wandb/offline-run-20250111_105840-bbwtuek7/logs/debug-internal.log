@@ -1,0 +1,15 @@
+{"time":"2025-01-11T10:58:40.2363529+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-11T10:58:40.2363529+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250111_105840-bbwtuek7\\logs\\debug-core.log"}
+{"time":"2025-01-11T10:58:40.3478838+01:00","level":"INFO","msg":"created new stream","id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.3484052+01:00","level":"INFO","msg":"stream: started","id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.3484052+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.3484052+01:00","level":"INFO","msg":"handler: started","stream_id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.3484052+01:00","level":"INFO","msg":"sender: started","stream_id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.3586435+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-11T10:58:40.608031+01:00","level":"INFO","msg":"stream: closing","id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.6157057+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-11T10:58:40.6174345+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-11T10:58:40.6174345+01:00","level":"INFO","msg":"handler: closed","stream_id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.6174345+01:00","level":"INFO","msg":"sender: closed","stream_id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.6174345+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bbwtuek7"}
+{"time":"2025-01-11T10:58:40.6179491+01:00","level":"INFO","msg":"stream: closed","id":"bbwtuek7"}

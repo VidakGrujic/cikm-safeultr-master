@@ -47,9 +47,9 @@ os.environ["WANDB_SILENT"] = "true"
 
 wandb.login()
 if args.risk == 1:
-    wandb.init(project=args.dataset + str(args.noise) + "_risk_T=%0.2f_PBM=1.0_exp"%args.T, entity="shashankg7")
+    wandb.init(project=args.dataset + str(args.noise) + "_risk_T=%0.2f_PBM=1.0_exp"%args.T, entity="shashankg7", mode='offline')
 else:
-    wandb.init(project=args.dataset + str(args.noise) + "_ips_T=%0.2f_PBM=1.0_exp"%args.T, entity="shashankg7")
+    wandb.init(project=args.dataset + str(args.noise) + "_ips_T=%0.2f_PBM=1.0_exp"%args.T, entity="shashankg7", mode='offline')
 wandb.run.name = args.dataset + str(args.noise) + "_sessions=" + str(args.num_sessions)
 wandb.run.save()
 
