@@ -1,0 +1,15 @@
+{"time":"2025-01-12T09:17:05.6637937+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-12T09:17:05.6637937+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250112_091705-z17nlylo\\logs\\debug-core.log"}
+{"time":"2025-01-12T09:17:05.7863636+01:00","level":"INFO","msg":"created new stream","id":"z17nlylo"}
+{"time":"2025-01-12T09:17:05.7863636+01:00","level":"INFO","msg":"stream: started","id":"z17nlylo"}
+{"time":"2025-01-12T09:17:05.7863636+01:00","level":"INFO","msg":"handler: started","stream_id":"z17nlylo"}
+{"time":"2025-01-12T09:17:05.7868998+01:00","level":"INFO","msg":"sender: started","stream_id":"z17nlylo"}
+{"time":"2025-01-12T09:17:05.7868998+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"z17nlylo"}
+{"time":"2025-01-12T09:17:05.8033803+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T09:18:30.1543354+01:00","level":"INFO","msg":"stream: closing","id":"z17nlylo"}
+{"time":"2025-01-12T09:18:30.1549033+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T09:18:30.1554277+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T09:18:30.1562064+01:00","level":"INFO","msg":"handler: closed","stream_id":"z17nlylo"}
+{"time":"2025-01-12T09:18:30.1567136+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z17nlylo"}
+{"time":"2025-01-12T09:18:30.158331+01:00","level":"INFO","msg":"sender: closed","stream_id":"z17nlylo"}
+{"time":"2025-01-12T09:18:30.1606655+01:00","level":"INFO","msg":"stream: closed","id":"z17nlylo"}

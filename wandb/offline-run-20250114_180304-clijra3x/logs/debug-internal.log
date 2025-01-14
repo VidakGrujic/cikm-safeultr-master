@@ -1,0 +1,17 @@
+{"time":"2025-01-14T18:03:04.998478+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-14T18:03:04.998478+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250114_180304-clijra3x\\logs\\debug-core.log"}
+{"time":"2025-01-14T18:03:05.1089574+01:00","level":"INFO","msg":"created new stream","id":"clijra3x"}
+{"time":"2025-01-14T18:03:05.1092423+01:00","level":"INFO","msg":"stream: started","id":"clijra3x"}
+{"time":"2025-01-14T18:03:05.1092423+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"clijra3x"}
+{"time":"2025-01-14T18:03:05.1092423+01:00","level":"INFO","msg":"sender: started","stream_id":"clijra3x"}
+{"time":"2025-01-14T18:03:05.1092423+01:00","level":"INFO","msg":"handler: started","stream_id":"clijra3x"}
+{"time":"2025-01-14T18:03:05.1195809+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-14T18:03:15.1201208+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-14T18:03:15.1262999+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 19020"}
+{"time":"2025-01-14T18:03:45.6366051+01:00","level":"INFO","msg":"stream: closing","id":"clijra3x"}
+{"time":"2025-01-14T18:03:45.6366051+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-14T18:03:45.643238+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-14T18:03:45.650611+01:00","level":"INFO","msg":"handler: closed","stream_id":"clijra3x"}
+{"time":"2025-01-14T18:03:45.650611+01:00","level":"INFO","msg":"sender: closed","stream_id":"clijra3x"}
+{"time":"2025-01-14T18:03:45.650611+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"clijra3x"}
+{"time":"2025-01-14T18:03:45.6526694+01:00","level":"INFO","msg":"stream: closed","id":"clijra3x"}

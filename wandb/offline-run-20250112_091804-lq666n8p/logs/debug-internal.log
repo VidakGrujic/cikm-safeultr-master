@@ -1,0 +1,15 @@
+{"time":"2025-01-12T09:18:04.6149679+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-12T09:18:04.6155076+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250112_091804-lq666n8p\\logs\\debug-core.log"}
+{"time":"2025-01-12T09:18:04.7249105+01:00","level":"INFO","msg":"created new stream","id":"lq666n8p"}
+{"time":"2025-01-12T09:18:04.7258268+01:00","level":"INFO","msg":"stream: started","id":"lq666n8p"}
+{"time":"2025-01-12T09:18:04.7258268+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"lq666n8p"}
+{"time":"2025-01-12T09:18:04.7258268+01:00","level":"INFO","msg":"handler: started","stream_id":"lq666n8p"}
+{"time":"2025-01-12T09:18:04.7258268+01:00","level":"INFO","msg":"sender: started","stream_id":"lq666n8p"}
+{"time":"2025-01-12T09:18:04.7360943+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T09:18:30.1549033+01:00","level":"INFO","msg":"stream: closing","id":"lq666n8p"}
+{"time":"2025-01-12T09:18:30.1549033+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T09:18:30.1559311+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T09:18:30.163895+01:00","level":"INFO","msg":"handler: closed","stream_id":"lq666n8p"}
+{"time":"2025-01-12T09:18:30.1688866+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lq666n8p"}
+{"time":"2025-01-12T09:18:30.1693904+01:00","level":"INFO","msg":"sender: closed","stream_id":"lq666n8p"}
+{"time":"2025-01-12T09:18:30.1726727+01:00","level":"INFO","msg":"stream: closed","id":"lq666n8p"}

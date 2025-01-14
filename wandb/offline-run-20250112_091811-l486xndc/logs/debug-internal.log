@@ -1,0 +1,15 @@
+{"time":"2025-01-12T09:18:12.1453974+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-12T09:18:12.1456305+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250112_091811-l486xndc\\logs\\debug-core.log"}
+{"time":"2025-01-12T09:18:12.2555779+01:00","level":"INFO","msg":"created new stream","id":"l486xndc"}
+{"time":"2025-01-12T09:18:12.2558406+01:00","level":"INFO","msg":"stream: started","id":"l486xndc"}
+{"time":"2025-01-12T09:18:12.2558406+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"l486xndc"}
+{"time":"2025-01-12T09:18:12.2558406+01:00","level":"INFO","msg":"handler: started","stream_id":"l486xndc"}
+{"time":"2025-01-12T09:18:12.2558406+01:00","level":"INFO","msg":"sender: started","stream_id":"l486xndc"}
+{"time":"2025-01-12T09:18:12.2665798+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T09:18:30.1548418+01:00","level":"INFO","msg":"stream: closing","id":"l486xndc"}
+{"time":"2025-01-12T09:18:30.1549033+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T09:18:30.1688866+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T09:18:30.1713181+01:00","level":"INFO","msg":"handler: closed","stream_id":"l486xndc"}
+{"time":"2025-01-12T09:18:30.1715357+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"l486xndc"}
+{"time":"2025-01-12T09:18:30.1715357+01:00","level":"INFO","msg":"sender: closed","stream_id":"l486xndc"}
+{"time":"2025-01-12T09:18:30.1737661+01:00","level":"INFO","msg":"stream: closed","id":"l486xndc"}

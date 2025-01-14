@@ -1,0 +1,17 @@
+{"time":"2025-01-12T09:28:28.9661664+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-12T09:28:28.966716+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250112_092828-d4v68ghx\\logs\\debug-core.log"}
+{"time":"2025-01-12T09:28:29.0765936+01:00","level":"INFO","msg":"created new stream","id":"d4v68ghx"}
+{"time":"2025-01-12T09:28:29.0765936+01:00","level":"INFO","msg":"stream: started","id":"d4v68ghx"}
+{"time":"2025-01-12T09:28:29.0765936+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"d4v68ghx"}
+{"time":"2025-01-12T09:28:29.0765936+01:00","level":"INFO","msg":"handler: started","stream_id":"d4v68ghx"}
+{"time":"2025-01-12T09:28:29.0765936+01:00","level":"INFO","msg":"sender: started","stream_id":"d4v68ghx"}
+{"time":"2025-01-12T09:28:29.0869547+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-12T09:28:49.0884715+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-12T09:28:49.0944653+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 10452"}
+{"time":"2025-01-12T09:29:16.7358612+01:00","level":"INFO","msg":"stream: closing","id":"d4v68ghx"}
+{"time":"2025-01-12T09:29:16.7358612+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-12T09:29:16.7383189+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-12T09:29:16.7421197+01:00","level":"INFO","msg":"handler: closed","stream_id":"d4v68ghx"}
+{"time":"2025-01-12T09:29:16.7451127+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"d4v68ghx"}
+{"time":"2025-01-12T09:29:16.747107+01:00","level":"INFO","msg":"sender: closed","stream_id":"d4v68ghx"}
+{"time":"2025-01-12T09:29:16.7510978+01:00","level":"INFO","msg":"stream: closed","id":"d4v68ghx"}

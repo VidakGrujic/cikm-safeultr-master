@@ -1,0 +1,15 @@
+{"time":"2025-01-14T17:38:55.6806668+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-14T17:38:55.6808856+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250114_173855-bt98u2k3\\logs\\debug-core.log"}
+{"time":"2025-01-14T17:38:55.7990967+01:00","level":"INFO","msg":"created new stream","id":"bt98u2k3"}
+{"time":"2025-01-14T17:38:55.7998793+01:00","level":"INFO","msg":"stream: started","id":"bt98u2k3"}
+{"time":"2025-01-14T17:38:55.7998793+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"bt98u2k3"}
+{"time":"2025-01-14T17:38:55.7998793+01:00","level":"INFO","msg":"handler: started","stream_id":"bt98u2k3"}
+{"time":"2025-01-14T17:38:55.7998793+01:00","level":"INFO","msg":"sender: started","stream_id":"bt98u2k3"}
+{"time":"2025-01-14T17:38:55.810245+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-14T17:39:12.5426321+01:00","level":"INFO","msg":"stream: closing","id":"bt98u2k3"}
+{"time":"2025-01-14T17:39:12.5431505+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-14T17:39:12.5441681+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-14T17:39:12.544427+01:00","level":"INFO","msg":"handler: closed","stream_id":"bt98u2k3"}
+{"time":"2025-01-14T17:39:12.5449943+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bt98u2k3"}
+{"time":"2025-01-14T17:39:12.5503532+01:00","level":"INFO","msg":"sender: closed","stream_id":"bt98u2k3"}
+{"time":"2025-01-14T17:39:12.5565255+01:00","level":"INFO","msg":"stream: closed","id":"bt98u2k3"}
