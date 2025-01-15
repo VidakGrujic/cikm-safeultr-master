@@ -1,0 +1,17 @@
+{"time":"2025-01-15T21:21:26.4833442+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:21:26.4834829+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_212126-0302wfby\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:21:26.5933894+01:00","level":"INFO","msg":"created new stream","id":"0302wfby"}
+{"time":"2025-01-15T21:21:26.5939436+01:00","level":"INFO","msg":"stream: started","id":"0302wfby"}
+{"time":"2025-01-15T21:21:26.5939436+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"0302wfby"}
+{"time":"2025-01-15T21:21:26.5939436+01:00","level":"INFO","msg":"handler: started","stream_id":"0302wfby"}
+{"time":"2025-01-15T21:21:26.5939436+01:00","level":"INFO","msg":"sender: started","stream_id":"0302wfby"}
+{"time":"2025-01-15T21:21:26.6045886+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:22:06.6085077+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T21:22:06.616766+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 14176"}
+{"time":"2025-01-15T21:22:33.9419062+01:00","level":"INFO","msg":"stream: closing","id":"0302wfby"}
+{"time":"2025-01-15T21:22:33.9424206+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:22:33.9663726+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:22:33.9669084+01:00","level":"INFO","msg":"handler: closed","stream_id":"0302wfby"}
+{"time":"2025-01-15T21:22:33.9669084+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0302wfby"}
+{"time":"2025-01-15T21:22:33.9674336+01:00","level":"INFO","msg":"sender: closed","stream_id":"0302wfby"}
+{"time":"2025-01-15T21:22:33.9679362+01:00","level":"INFO","msg":"stream: closed","id":"0302wfby"}

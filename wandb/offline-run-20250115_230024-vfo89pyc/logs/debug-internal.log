@@ -1,0 +1,17 @@
+{"time":"2025-01-15T23:00:24.9914814+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T23:00:24.9914814+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_230024-vfo89pyc\\logs\\debug-core.log"}
+{"time":"2025-01-15T23:00:25.1018177+01:00","level":"INFO","msg":"created new stream","id":"vfo89pyc"}
+{"time":"2025-01-15T23:00:25.1023897+01:00","level":"INFO","msg":"stream: started","id":"vfo89pyc"}
+{"time":"2025-01-15T23:00:25.1023897+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"vfo89pyc"}
+{"time":"2025-01-15T23:00:25.1023897+01:00","level":"INFO","msg":"handler: started","stream_id":"vfo89pyc"}
+{"time":"2025-01-15T23:00:25.1023897+01:00","level":"INFO","msg":"sender: started","stream_id":"vfo89pyc"}
+{"time":"2025-01-15T23:00:25.1133199+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T23:00:55.1140894+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T23:00:55.1219795+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 20608"}
+{"time":"2025-01-15T23:02:25.3375363+01:00","level":"INFO","msg":"stream: closing","id":"vfo89pyc"}
+{"time":"2025-01-15T23:02:25.3375503+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T23:02:25.3418465+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T23:02:25.3458908+01:00","level":"INFO","msg":"handler: closed","stream_id":"vfo89pyc"}
+{"time":"2025-01-15T23:02:25.3509422+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vfo89pyc"}
+{"time":"2025-01-15T23:02:25.3543079+01:00","level":"INFO","msg":"sender: closed","stream_id":"vfo89pyc"}
+{"time":"2025-01-15T23:02:25.3589554+01:00","level":"INFO","msg":"stream: closed","id":"vfo89pyc"}

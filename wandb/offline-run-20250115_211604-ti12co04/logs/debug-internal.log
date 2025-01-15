@@ -1,0 +1,17 @@
+{"time":"2025-01-15T21:16:04.817016+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:16:04.817016+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_211604-ti12co04\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:16:04.9272942+01:00","level":"INFO","msg":"created new stream","id":"ti12co04"}
+{"time":"2025-01-15T21:16:04.9276188+01:00","level":"INFO","msg":"stream: started","id":"ti12co04"}
+{"time":"2025-01-15T21:16:04.9276188+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ti12co04"}
+{"time":"2025-01-15T21:16:04.9276188+01:00","level":"INFO","msg":"handler: started","stream_id":"ti12co04"}
+{"time":"2025-01-15T21:16:04.9276188+01:00","level":"INFO","msg":"sender: started","stream_id":"ti12co04"}
+{"time":"2025-01-15T21:16:04.9382551+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:21:24.9384878+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T21:21:24.9440409+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 8636"}
+{"time":"2025-01-15T21:22:33.9419062+01:00","level":"INFO","msg":"stream: closing","id":"ti12co04"}
+{"time":"2025-01-15T21:22:33.9424206+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:22:33.9441023+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:22:33.9465451+01:00","level":"INFO","msg":"handler: closed","stream_id":"ti12co04"}
+{"time":"2025-01-15T21:22:33.9467504+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ti12co04"}
+{"time":"2025-01-15T21:22:33.9480781+01:00","level":"INFO","msg":"sender: closed","stream_id":"ti12co04"}
+{"time":"2025-01-15T21:22:33.9594889+01:00","level":"INFO","msg":"stream: closed","id":"ti12co04"}

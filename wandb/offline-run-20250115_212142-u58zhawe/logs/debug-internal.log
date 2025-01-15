@@ -1,0 +1,17 @@
+{"time":"2025-01-15T21:21:42.4074997+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:21:42.4074997+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_212142-u58zhawe\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:21:42.5173732+01:00","level":"INFO","msg":"created new stream","id":"u58zhawe"}
+{"time":"2025-01-15T21:21:42.5173732+01:00","level":"INFO","msg":"stream: started","id":"u58zhawe"}
+{"time":"2025-01-15T21:21:42.5173732+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"u58zhawe"}
+{"time":"2025-01-15T21:21:42.5173732+01:00","level":"INFO","msg":"handler: started","stream_id":"u58zhawe"}
+{"time":"2025-01-15T21:21:42.5173732+01:00","level":"INFO","msg":"sender: started","stream_id":"u58zhawe"}
+{"time":"2025-01-15T21:21:42.5283017+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:22:02.5289162+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T21:22:02.5352401+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 10156"}
+{"time":"2025-01-15T21:22:33.9434364+01:00","level":"INFO","msg":"stream: closing","id":"u58zhawe"}
+{"time":"2025-01-15T21:22:33.9434364+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:22:33.9516052+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:22:33.9521078+01:00","level":"INFO","msg":"handler: closed","stream_id":"u58zhawe"}
+{"time":"2025-01-15T21:22:33.952613+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u58zhawe"}
+{"time":"2025-01-15T21:22:33.9540908+01:00","level":"INFO","msg":"sender: closed","stream_id":"u58zhawe"}
+{"time":"2025-01-15T21:22:33.9563466+01:00","level":"INFO","msg":"stream: closed","id":"u58zhawe"}

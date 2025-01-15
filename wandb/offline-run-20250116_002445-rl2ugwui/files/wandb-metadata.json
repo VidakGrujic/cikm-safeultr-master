@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.8.15",
+  "startedAt": "2025-01-15T23:24:45.563596Z",
+  "args": [
+    "--noise",
+    "0.1",
+    "--job_id",
+    "1",
+    "--dataset",
+    "Yahoo",
+    "--num_sessions",
+    "100",
+    "--fraction",
+    "0.030000",
+    "--T",
+    "1.0",
+    "--deterministic",
+    "False"
+  ],
+  "program": "logging_policy.py",
+  "codePath": "logging_policy.py",
+  "git": {
+    "remote": "https://github.com/VidakGrujic/cikm-safeultr-master.git",
+    "commit": "45282250f4168ed8c8f0741d3996b8824c2080d4"
+  },
+  "root": "D:\\Exercise 2\\cikm-safeultr-master",
+  "host": "DESKTOP-7BNGB9J",
+  "executable": "C:\\Users\\Vidak\\miniconda3\\envs\\myenv\\python.exe",
+  "codePathLocal": "logging_policy.py"
+}

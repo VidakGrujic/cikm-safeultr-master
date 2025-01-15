@@ -2,7 +2,7 @@ from typing import Any, List, Optional
 import torch
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import BasePredictionWriter
-
+import os
 class CustomWriter(BasePredictionWriter):
     def __init__(self, output_dir: str, alpha, beta,k, write_interval: str):
         super().__init__(write_interval)

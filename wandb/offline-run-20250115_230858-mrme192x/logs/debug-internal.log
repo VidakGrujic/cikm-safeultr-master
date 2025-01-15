@@ -1,0 +1,15 @@
+{"time":"2025-01-15T23:08:58.5828716+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T23:08:58.5828716+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_230858-mrme192x\\logs\\debug-core.log"}
+{"time":"2025-01-15T23:08:58.693869+01:00","level":"INFO","msg":"created new stream","id":"mrme192x"}
+{"time":"2025-01-15T23:08:58.693869+01:00","level":"INFO","msg":"stream: started","id":"mrme192x"}
+{"time":"2025-01-15T23:08:58.693869+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"mrme192x"}
+{"time":"2025-01-15T23:08:58.693869+01:00","level":"INFO","msg":"handler: started","stream_id":"mrme192x"}
+{"time":"2025-01-15T23:08:58.693869+01:00","level":"INFO","msg":"sender: started","stream_id":"mrme192x"}
+{"time":"2025-01-15T23:08:58.7047169+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T23:10:29.5683489+01:00","level":"INFO","msg":"stream: closing","id":"mrme192x"}
+{"time":"2025-01-15T23:10:29.5683489+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T23:10:29.5710819+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T23:10:29.5739989+01:00","level":"INFO","msg":"handler: closed","stream_id":"mrme192x"}
+{"time":"2025-01-15T23:10:29.5739989+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mrme192x"}
+{"time":"2025-01-15T23:10:29.5800352+01:00","level":"INFO","msg":"sender: closed","stream_id":"mrme192x"}
+{"time":"2025-01-15T23:10:29.5834488+01:00","level":"INFO","msg":"stream: closed","id":"mrme192x"}

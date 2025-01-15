@@ -1,0 +1,17 @@
+{"time":"2025-01-16T00:34:02.812752+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-16T00:34:02.8134651+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250116_003402-ls1uazwg\\logs\\debug-core.log"}
+{"time":"2025-01-16T00:34:02.9234753+01:00","level":"INFO","msg":"created new stream","id":"ls1uazwg"}
+{"time":"2025-01-16T00:34:02.9239875+01:00","level":"INFO","msg":"stream: started","id":"ls1uazwg"}
+{"time":"2025-01-16T00:34:02.9239875+01:00","level":"INFO","msg":"handler: started","stream_id":"ls1uazwg"}
+{"time":"2025-01-16T00:34:02.9239875+01:00","level":"INFO","msg":"sender: started","stream_id":"ls1uazwg"}
+{"time":"2025-01-16T00:34:02.9239875+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ls1uazwg"}
+{"time":"2025-01-16T00:34:02.9436684+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-16T00:39:42.9439956+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-16T00:39:42.9498243+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 14132"}
+{"time":"2025-01-16T00:40:56.9072954+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-16T00:40:56.9067868+01:00","level":"INFO","msg":"stream: closing","id":"ls1uazwg"}
+{"time":"2025-01-16T00:40:56.9088491+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-16T00:40:56.909368+01:00","level":"INFO","msg":"handler: closed","stream_id":"ls1uazwg"}
+{"time":"2025-01-16T00:40:56.909888+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ls1uazwg"}
+{"time":"2025-01-16T00:40:56.909888+01:00","level":"INFO","msg":"sender: closed","stream_id":"ls1uazwg"}
+{"time":"2025-01-16T00:40:56.9230703+01:00","level":"INFO","msg":"stream: closed","id":"ls1uazwg"}

@@ -1,0 +1,15 @@
+{"time":"2025-01-15T21:30:11.416236+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:30:11.416236+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_213011-jxm2iawn\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:30:11.5265378+01:00","level":"INFO","msg":"created new stream","id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:11.5266672+01:00","level":"INFO","msg":"stream: started","id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:11.5266672+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:11.5266672+01:00","level":"INFO","msg":"sender: started","stream_id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:11.5266672+01:00","level":"INFO","msg":"handler: started","stream_id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:11.537721+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:30:36.0806442+01:00","level":"INFO","msg":"stream: closing","id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:36.0806442+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:30:36.0923184+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:30:36.0933156+01:00","level":"INFO","msg":"handler: closed","stream_id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:36.0943133+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:36.0943133+01:00","level":"INFO","msg":"sender: closed","stream_id":"jxm2iawn"}
+{"time":"2025-01-15T21:30:36.0986301+01:00","level":"INFO","msg":"stream: closed","id":"jxm2iawn"}

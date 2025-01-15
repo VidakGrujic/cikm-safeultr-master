@@ -1,0 +1,15 @@
+{"time":"2025-01-15T22:28:57.6442789+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T22:28:57.6442789+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_222857-7hmd0wod\\logs\\debug-core.log"}
+{"time":"2025-01-15T22:28:57.7553796+01:00","level":"INFO","msg":"created new stream","id":"7hmd0wod"}
+{"time":"2025-01-15T22:28:57.7556051+01:00","level":"INFO","msg":"stream: started","id":"7hmd0wod"}
+{"time":"2025-01-15T22:28:57.7556051+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"7hmd0wod"}
+{"time":"2025-01-15T22:28:57.7556051+01:00","level":"INFO","msg":"handler: started","stream_id":"7hmd0wod"}
+{"time":"2025-01-15T22:28:57.7556051+01:00","level":"INFO","msg":"sender: started","stream_id":"7hmd0wod"}
+{"time":"2025-01-15T22:28:57.766738+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T22:29:18.2896155+01:00","level":"INFO","msg":"stream: closing","id":"7hmd0wod"}
+{"time":"2025-01-15T22:29:18.2896155+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T22:29:18.2927092+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T22:29:18.292855+01:00","level":"INFO","msg":"handler: closed","stream_id":"7hmd0wod"}
+{"time":"2025-01-15T22:29:18.2933699+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7hmd0wod"}
+{"time":"2025-01-15T22:29:18.2933699+01:00","level":"INFO","msg":"sender: closed","stream_id":"7hmd0wod"}
+{"time":"2025-01-15T22:29:18.3088514+01:00","level":"INFO","msg":"stream: closed","id":"7hmd0wod"}

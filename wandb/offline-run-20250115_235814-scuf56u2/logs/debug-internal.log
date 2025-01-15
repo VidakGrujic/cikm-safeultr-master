@@ -1,0 +1,17 @@
+{"time":"2025-01-15T23:58:14.4918022+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T23:58:14.4918022+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_235814-scuf56u2\\logs\\debug-core.log"}
+{"time":"2025-01-15T23:58:14.603261+01:00","level":"INFO","msg":"created new stream","id":"scuf56u2"}
+{"time":"2025-01-15T23:58:14.6036955+01:00","level":"INFO","msg":"stream: started","id":"scuf56u2"}
+{"time":"2025-01-15T23:58:14.6036955+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"scuf56u2"}
+{"time":"2025-01-15T23:58:14.6036955+01:00","level":"INFO","msg":"handler: started","stream_id":"scuf56u2"}
+{"time":"2025-01-15T23:58:14.6036955+01:00","level":"INFO","msg":"sender: started","stream_id":"scuf56u2"}
+{"time":"2025-01-15T23:58:14.6145196+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T23:58:24.6156547+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T23:58:24.6206416+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 13660"}
+{"time":"2025-01-15T23:58:58.6813237+01:00","level":"INFO","msg":"stream: closing","id":"scuf56u2"}
+{"time":"2025-01-15T23:58:58.6819578+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T23:58:58.7034574+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T23:58:58.7133923+01:00","level":"INFO","msg":"handler: closed","stream_id":"scuf56u2"}
+{"time":"2025-01-15T23:58:58.7143905+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"scuf56u2"}
+{"time":"2025-01-15T23:58:58.7146552+01:00","level":"INFO","msg":"sender: closed","stream_id":"scuf56u2"}
+{"time":"2025-01-15T23:58:58.7146552+01:00","level":"INFO","msg":"stream: closed","id":"scuf56u2"}

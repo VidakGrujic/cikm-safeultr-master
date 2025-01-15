@@ -1,0 +1,17 @@
+{"time":"2025-01-15T21:21:50.8874823+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:21:50.8874823+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_212150-p9pv599v\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:21:50.9972074+01:00","level":"INFO","msg":"created new stream","id":"p9pv599v"}
+{"time":"2025-01-15T21:21:50.9972548+01:00","level":"INFO","msg":"stream: started","id":"p9pv599v"}
+{"time":"2025-01-15T21:21:50.9972548+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"p9pv599v"}
+{"time":"2025-01-15T21:21:50.9972548+01:00","level":"INFO","msg":"handler: started","stream_id":"p9pv599v"}
+{"time":"2025-01-15T21:21:50.9972548+01:00","level":"INFO","msg":"sender: started","stream_id":"p9pv599v"}
+{"time":"2025-01-15T21:21:51.0077696+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:22:01.0083312+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T21:22:01.0153592+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 12764"}
+{"time":"2025-01-15T21:22:33.9419062+01:00","level":"INFO","msg":"stream: closing","id":"p9pv599v"}
+{"time":"2025-01-15T21:22:33.9424206+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:22:33.9441023+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:22:33.9465451+01:00","level":"INFO","msg":"handler: closed","stream_id":"p9pv599v"}
+{"time":"2025-01-15T21:22:33.9467504+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"p9pv599v"}
+{"time":"2025-01-15T21:22:33.9483188+01:00","level":"INFO","msg":"sender: closed","stream_id":"p9pv599v"}
+{"time":"2025-01-15T21:22:33.9500382+01:00","level":"INFO","msg":"stream: closed","id":"p9pv599v"}

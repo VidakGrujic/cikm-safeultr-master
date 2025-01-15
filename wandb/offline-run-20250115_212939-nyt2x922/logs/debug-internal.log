@@ -1,0 +1,17 @@
+{"time":"2025-01-15T21:29:39.3074788+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:29:39.3074788+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_212939-nyt2x922\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:29:39.4177549+01:00","level":"INFO","msg":"created new stream","id":"nyt2x922"}
+{"time":"2025-01-15T21:29:39.4177549+01:00","level":"INFO","msg":"stream: started","id":"nyt2x922"}
+{"time":"2025-01-15T21:29:39.4177549+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"nyt2x922"}
+{"time":"2025-01-15T21:29:39.4177549+01:00","level":"INFO","msg":"handler: started","stream_id":"nyt2x922"}
+{"time":"2025-01-15T21:29:39.4177549+01:00","level":"INFO","msg":"sender: started","stream_id":"nyt2x922"}
+{"time":"2025-01-15T21:29:39.4297661+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:30:09.4301006+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T21:30:09.4352294+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 11696"}
+{"time":"2025-01-15T21:30:36.0806442+01:00","level":"INFO","msg":"stream: closing","id":"nyt2x922"}
+{"time":"2025-01-15T21:30:36.0806442+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:30:36.0816775+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:30:36.0857747+01:00","level":"INFO","msg":"handler: closed","stream_id":"nyt2x922"}
+{"time":"2025-01-15T21:30:36.0877791+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nyt2x922"}
+{"time":"2025-01-15T21:30:36.0889029+01:00","level":"INFO","msg":"sender: closed","stream_id":"nyt2x922"}
+{"time":"2025-01-15T21:30:36.0992668+01:00","level":"INFO","msg":"stream: closed","id":"nyt2x922"}

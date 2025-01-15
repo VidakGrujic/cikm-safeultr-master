@@ -1,0 +1,15 @@
+{"time":"2025-01-15T23:06:21.3806812+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T23:06:21.3806812+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_230621-pwemh10m\\logs\\debug-core.log"}
+{"time":"2025-01-15T23:06:21.4935278+01:00","level":"INFO","msg":"created new stream","id":"pwemh10m"}
+{"time":"2025-01-15T23:06:21.4940446+01:00","level":"INFO","msg":"stream: started","id":"pwemh10m"}
+{"time":"2025-01-15T23:06:21.4940446+01:00","level":"INFO","msg":"handler: started","stream_id":"pwemh10m"}
+{"time":"2025-01-15T23:06:21.4940446+01:00","level":"INFO","msg":"sender: started","stream_id":"pwemh10m"}
+{"time":"2025-01-15T23:06:21.4940446+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"pwemh10m"}
+{"time":"2025-01-15T23:06:21.5059908+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T23:10:29.5683489+01:00","level":"INFO","msg":"stream: closing","id":"pwemh10m"}
+{"time":"2025-01-15T23:10:29.5688763+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T23:10:29.5715968+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T23:10:29.5739989+01:00","level":"INFO","msg":"handler: closed","stream_id":"pwemh10m"}
+{"time":"2025-01-15T23:10:29.5739989+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pwemh10m"}
+{"time":"2025-01-15T23:10:29.5785252+01:00","level":"INFO","msg":"sender: closed","stream_id":"pwemh10m"}
+{"time":"2025-01-15T23:10:29.5804385+01:00","level":"INFO","msg":"stream: closed","id":"pwemh10m"}

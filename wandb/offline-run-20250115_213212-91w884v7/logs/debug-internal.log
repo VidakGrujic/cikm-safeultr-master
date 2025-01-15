@@ -1,0 +1,15 @@
+{"time":"2025-01-15T21:32:13.0270154+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T21:32:13.0270154+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_213212-91w884v7\\logs\\debug-core.log"}
+{"time":"2025-01-15T21:32:13.1451376+01:00","level":"INFO","msg":"created new stream","id":"91w884v7"}
+{"time":"2025-01-15T21:32:13.1451376+01:00","level":"INFO","msg":"stream: started","id":"91w884v7"}
+{"time":"2025-01-15T21:32:13.1451376+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"91w884v7"}
+{"time":"2025-01-15T21:32:13.1451376+01:00","level":"INFO","msg":"handler: started","stream_id":"91w884v7"}
+{"time":"2025-01-15T21:32:13.1451376+01:00","level":"INFO","msg":"sender: started","stream_id":"91w884v7"}
+{"time":"2025-01-15T21:32:13.1558105+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T21:32:22.1811133+01:00","level":"INFO","msg":"stream: closing","id":"91w884v7"}
+{"time":"2025-01-15T21:32:22.1816308+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T21:32:22.1827821+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T21:32:22.1834916+01:00","level":"INFO","msg":"handler: closed","stream_id":"91w884v7"}
+{"time":"2025-01-15T21:32:22.1834916+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"91w884v7"}
+{"time":"2025-01-15T21:32:22.1840593+01:00","level":"INFO","msg":"sender: closed","stream_id":"91w884v7"}
+{"time":"2025-01-15T21:32:22.1935777+01:00","level":"INFO","msg":"stream: closed","id":"91w884v7"}

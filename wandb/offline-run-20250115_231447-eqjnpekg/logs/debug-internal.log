@@ -1,0 +1,17 @@
+{"time":"2025-01-15T23:14:48.3126025+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-15T23:14:48.3126025+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250115_231447-eqjnpekg\\logs\\debug-core.log"}
+{"time":"2025-01-15T23:14:48.6405956+01:00","level":"INFO","msg":"created new stream","id":"eqjnpekg"}
+{"time":"2025-01-15T23:14:48.6418642+01:00","level":"INFO","msg":"stream: started","id":"eqjnpekg"}
+{"time":"2025-01-15T23:14:48.6422038+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"eqjnpekg"}
+{"time":"2025-01-15T23:14:48.6422038+01:00","level":"INFO","msg":"sender: started","stream_id":"eqjnpekg"}
+{"time":"2025-01-15T23:14:48.6422038+01:00","level":"INFO","msg":"handler: started","stream_id":"eqjnpekg"}
+{"time":"2025-01-15T23:14:48.6528977+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T23:15:18.6535246+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-15T23:15:18.6889154+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 5548"}
+{"time":"2025-01-15T23:16:59.0734665+01:00","level":"INFO","msg":"stream: closing","id":"eqjnpekg"}
+{"time":"2025-01-15T23:16:59.0767123+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T23:16:59.0844756+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T23:16:59.104293+01:00","level":"INFO","msg":"handler: closed","stream_id":"eqjnpekg"}
+{"time":"2025-01-15T23:16:59.1055213+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"eqjnpekg"}
+{"time":"2025-01-15T23:16:59.1055213+01:00","level":"INFO","msg":"sender: closed","stream_id":"eqjnpekg"}
+{"time":"2025-01-15T23:16:59.1166405+01:00","level":"INFO","msg":"stream: closed","id":"eqjnpekg"}

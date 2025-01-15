@@ -195,7 +195,9 @@ class PLRanker(pl.LightningModule):
         rel_labels, doc_feats, mask, dcg_norm, qids = batch['labels'], batch['feats'], batch['mask'], batch['dcg_norm'], batch['qid']
         qid_freq = batch['qid_freq']
         qids = qids.detach().to('cpu').numpy()
-        qids_mapped = torch.tensor([self.train_qid_map[x] for x in qids]).to(self.device)
+        
+        qids_mapped = torch.tensor([self.train_qid_map[x] for x in qids]).to(self.device) # original
+        #qids_mapped = torch.tensor([self.train_qid_map.get(x, None) for x in qids]).to(self.device) # changed to avoid key error
         doc_feats = doc_feats.squeeze(1).float()
         doc_scores = self.doc_scorer(doc_feats).squeeze(-1)
         self.query_freq.index_put_((qids_mapped,), qid_freq.float().to('cpu'), accumulate=True)
