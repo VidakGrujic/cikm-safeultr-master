@@ -1,0 +1,15 @@
+{"time":"2025-01-16T10:00:58.5309921+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-16T10:00:58.5315094+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250116_100058-mkgsjapd\\logs\\debug-core.log"}
+{"time":"2025-01-16T10:00:58.6530052+01:00","level":"INFO","msg":"created new stream","id":"mkgsjapd"}
+{"time":"2025-01-16T10:00:58.653513+01:00","level":"INFO","msg":"stream: started","id":"mkgsjapd"}
+{"time":"2025-01-16T10:00:58.653513+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"mkgsjapd"}
+{"time":"2025-01-16T10:00:58.653513+01:00","level":"INFO","msg":"handler: started","stream_id":"mkgsjapd"}
+{"time":"2025-01-16T10:00:58.653513+01:00","level":"INFO","msg":"sender: started","stream_id":"mkgsjapd"}
+{"time":"2025-01-16T10:00:58.6719646+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-16T10:08:54.5602613+01:00","level":"INFO","msg":"stream: closing","id":"mkgsjapd"}
+{"time":"2025-01-16T10:08:54.5607764+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-16T10:08:54.5654863+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-16T10:08:54.5982052+01:00","level":"INFO","msg":"handler: closed","stream_id":"mkgsjapd"}
+{"time":"2025-01-16T10:08:54.5987624+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mkgsjapd"}
+{"time":"2025-01-16T10:08:54.5992656+01:00","level":"INFO","msg":"sender: closed","stream_id":"mkgsjapd"}
+{"time":"2025-01-16T10:08:54.6010653+01:00","level":"INFO","msg":"stream: closed","id":"mkgsjapd"}

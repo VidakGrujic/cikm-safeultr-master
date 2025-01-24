@@ -1,0 +1,16 @@
+{"time":"2025-01-24T14:37:23.8106193+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-24T14:37:23.8106193+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\run-20250124_143723-essefyss\\logs\\debug-core.log"}
+{"time":"2025-01-24T14:37:23.9177574+01:00","level":"INFO","msg":"created new stream","id":"essefyss"}
+{"time":"2025-01-24T14:37:23.9177574+01:00","level":"INFO","msg":"stream: started","id":"essefyss"}
+{"time":"2025-01-24T14:37:23.9177574+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"essefyss"}
+{"time":"2025-01-24T14:37:23.9177574+01:00","level":"INFO","msg":"handler: started","stream_id":"essefyss"}
+{"time":"2025-01-24T14:37:23.9177574+01:00","level":"INFO","msg":"sender: started","stream_id":"essefyss"}
+{"time":"2025-01-24T14:37:24.2278982+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T14:39:11.7605145+01:00","level":"INFO","msg":"stream: closing","id":"essefyss"}
+{"time":"2025-01-24T14:39:11.7619144+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T14:39:11.763611+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T14:39:12.5142904+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T14:39:12.7425802+01:00","level":"INFO","msg":"handler: closed","stream_id":"essefyss"}
+{"time":"2025-01-24T14:39:12.7425802+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"essefyss"}
+{"time":"2025-01-24T14:39:12.7425802+01:00","level":"INFO","msg":"sender: closed","stream_id":"essefyss"}
+{"time":"2025-01-24T14:39:12.7431232+01:00","level":"INFO","msg":"stream: closed","id":"essefyss"}

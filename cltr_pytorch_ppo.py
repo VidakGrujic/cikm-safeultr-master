@@ -47,9 +47,9 @@ os.environ["WANDB_SILENT"] = "true"
 
 wandb.login()
 if args.risk == 1:
-    wandb.init(project=args.dataset + str(args.noise) + "_risk_T=%0.2f_PBM=1.0_exp"%args.T, entity="shashankg7")
+    wandb.init(project=args.dataset + str(args.noise) + "_risk_T=%0.2f_PBM=1.0_exp_PPO"%args.T, entity='e12332263-tu-wien')
 else:
-    wandb.init(project=args.dataset + str(args.noise) + "_ips_T=%0.2f_PBM=1.0_exp"%args.T, entity="shashankg7")
+    wandb.init(project=args.dataset + str(args.noise) + "_ips_T=%0.2f_PBM=1.0_exp_PPO"%args.T, entity='e12332263-tu-wien')
 wandb.run.name = args.dataset + str(args.noise) + "_sessions=" + str(args.num_sessions)
 wandb.run.save()
 
@@ -58,20 +58,23 @@ wandb.run.save()
 def main():
     config = yaml.safe_load(open('./config/config.yaml', 'rb'))
     simulation_config = yaml.safe_load(open('./config/clickmodel_config.yaml', 'rb'))
-    hp_dict_ips = json.load(open('./results/hp_dict_ips.json', 'r'))
-    hp_dict_risk = json.load(open('./results/hp_dict_risk.json', 'r'))
-    hp_dict_risk = hp_dict_risk[args.dataset]
-    hp_dict_ips = hp_dict_ips[args.dataset]
+    #hp_dict_ips = json.load(open('./results/hp_dict_ips.json', 'r'))
+    #hp_dict_risk = json.load(open('./results/hp_dict_risk.json', 'r'))
+    #hp_dict_risk = hp_dict_risk[args.dataset]
+    #hp_dict_ips = hp_dict_ips[args.dataset]
     eta = simulation_config['clickmodel']['eta']
-    grid = np.log10(np.array(list((hp_dict_risk.keys())), dtype=np.int64))
-    grid_ips = np.log10(np.array(list((hp_dict_ips.keys())), dtype=np.int64))
+    #grid = np.log10(np.array(list((hp_dict_risk.keys())), dtype=np.int64))
+    #grid_ips = np.log10(np.array(list((hp_dict_ips.keys())), dtype=np.int64))
     pow_10 = np.floor(np.log10(args.num_sessions))
-    grid_idx = np.argmin(np.abs(grid - pow_10))
-    grid_point = str(int(np.power(10, grid[grid_idx])))
-    lr_risk = hp_dict_risk[grid_point]
-    grid_idx = np.argmin(np.abs(grid_ips - pow_10))
-    grid_point = str(int(np.power(10, grid_ips[grid_idx])))
-    lr_ips = hp_dict_ips[grid_point]
+    #grid_idx = np.argmin(np.abs(grid - pow_10))
+    #grid_point = str(int(np.power(10, grid[grid_idx])))
+    #lr_risk = hp_dict_risk[grid_point]
+    #grid_idx = np.argmin(np.abs(grid_ips - pow_10))
+    #grid_point = str(int(np.power(10, grid_ips[grid_idx])))
+    #lr_ips = hp_dict_ips[grid_point]
+    lr_risk = 0.0001
+    lr_ips = 0.0001
+
     print(config)
     print(simulation_config)
     alpha = simulation_config['bias_params']['alpha']
@@ -158,6 +161,10 @@ def main():
     test_ltr_dataloader.set_label(rel_scale)
     test_dataloader = MultiEpochsDataLoader(test_ltr_dataloader, batch_size=batch_size,
                             shuffle=False, num_workers=2, persistent_workers=True)
+    
+    # we had to add this line of code to avodi non existent folders
+    folder_path = os.path.join('./results/test_results', args.dataset + '_' + str(args.T) + '_' + str(args.num_sessions) + '_' + str(args.job_id))
+    os.makedirs(folder_path, exist_ok=True)
     
     if args.risk == 1:
         results_file_risk = open(os.path.join('./results/test_results', args.dataset + '_' + str(args.T) + '_' + str(args.num_sessions) + '_' + str(args.job_id) + '_' + 'ppo_exp'), 'w')

@@ -50,7 +50,9 @@ class LTRDataLoader(Dataset):
         self.k = k
         # max number of candidates, (pre) computed from the training data
         libsvm_data = datasets.load_svmlight_file(self.qrel_path, query_id=True)
-        X, y, qid = libsvm_data[0], libsvm_data[1], libsvm_data[2] 
+        X, y, qid = libsvm_data[0], libsvm_data[1], libsvm_data[2]
+        ## here we can sample the data 
+        #X, y, qid = X[:50000], y[:50000], qid[:50000]
         self.nqueries = np.unique(qid).shape[0]
         self.df = pd.DataFrame({'label' : y.T,
                                  'qid' : qid.T }, 

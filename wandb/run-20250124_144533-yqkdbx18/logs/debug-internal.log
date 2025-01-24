@@ -1,0 +1,16 @@
+{"time":"2025-01-24T14:45:33.7147847+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-24T14:45:33.7147847+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\run-20250124_144533-yqkdbx18\\logs\\debug-core.log"}
+{"time":"2025-01-24T14:45:33.8219774+01:00","level":"INFO","msg":"created new stream","id":"yqkdbx18"}
+{"time":"2025-01-24T14:45:33.8219774+01:00","level":"INFO","msg":"stream: started","id":"yqkdbx18"}
+{"time":"2025-01-24T14:45:33.8219774+01:00","level":"INFO","msg":"handler: started","stream_id":"yqkdbx18"}
+{"time":"2025-01-24T14:45:33.8219774+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"yqkdbx18"}
+{"time":"2025-01-24T14:45:33.8219774+01:00","level":"INFO","msg":"sender: started","stream_id":"yqkdbx18"}
+{"time":"2025-01-24T14:45:34.1495822+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T14:46:37.9588549+01:00","level":"INFO","msg":"stream: closing","id":"yqkdbx18"}
+{"time":"2025-01-24T14:46:37.9588549+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T14:46:37.9608545+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T14:46:38.5896495+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T14:46:38.9644121+01:00","level":"INFO","msg":"handler: closed","stream_id":"yqkdbx18"}
+{"time":"2025-01-24T14:46:38.9644121+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yqkdbx18"}
+{"time":"2025-01-24T14:46:38.9644121+01:00","level":"INFO","msg":"sender: closed","stream_id":"yqkdbx18"}
+{"time":"2025-01-24T14:46:38.9644121+01:00","level":"INFO","msg":"stream: closed","id":"yqkdbx18"}

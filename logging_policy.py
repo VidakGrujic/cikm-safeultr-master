@@ -287,6 +287,7 @@ def main():
     query_train, query_val = train_test_split(active_queries, test_size=0.15, random_state=42)
     np.save(os.path.join(meta_dir, 'query_train'), query_train)
     np.save(os.path.join(meta_dir, 'query_val'), query_val)
+    
     #logging_model.click_sim_val = True
     # run (val) click simulation
     #trainer.predict(logging_model, click_sim_dataloader_val)

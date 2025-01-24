@@ -1,0 +1,19 @@
+{'dataset': {'root_dir': 'D:\\Exercise 2', 'predict_dir': 'D:\\Exercise 2\\cikm-safeultr-master\\CRM_project_logs', 'fold': 'Fold1', 'doc_feat_size': 136, 'normalize': False}, 'plackettluce': {'num_samples': 32}, 'docscorer': {'hidden_dim1': 150, 'hidden_dim2': 75}, 'hyperparams': {'batch_size': 4, 'lr': 0.001, 'optimizer': 'Adam'}, 'ranking': {'k': 5, 'num_samples': 1000, 'max_cand_size': 120, 'num_sessions': 100, 'num_sessions_val': 10000}}
+{'clickmodel': {'type': 'trust_bias', 'eta': 1, 'adversarial': False}, 'bias_params': {'alpha': [0.35, 0.53, 0.55, 0.54, 0.52], 'beta': [0.65, 0.26, 0.15, 0.11, 0.08]}, 'simulation': {'num_sessions': 10000}}
+0.001
+D:\Exercise 2\cikm-safeultr-master\src\data\data_loader_click.py:109: RuntimeWarning: invalid value encountered in divide
+  self.ips_weights = (self.ctr_map - self.expected_beta)/self.expected_alpha
+D:\Exercise 2\cikm-safeultr-master\src\data\data_loader_click.py:114: RuntimeWarning: invalid value encountered in divide
+  self.reg_weights = (self.ctr_map - self.beta_freq)/self.expected_alpha
+Traceback (most recent call last):
+  File "cltr_pytorch.py", line 211, in <module>
+    main()
+  File "cltr_pytorch.py", line 196, in main
+    results_file_ips = open(os.path.join('./results/test_results', args.dataset + '_' + str(args.T) + '_' + str(args.num_sessions) + '_' + str(args.job_id) + '_'  + 'ips_exp'), 'w')
+PermissionError: [Errno 13] Permission denied: './results/test_results\\MSLR30K_1.0_100_1_ips_exp'
+Traceback (most recent call last):
+  File "cltr_pytorch.py", line 211, in <module>
+    main()
+  File "cltr_pytorch.py", line 196, in main
+    results_file_ips = open(os.path.join('./results/test_results', args.dataset + '_' + str(args.T) + '_' + str(args.num_sessions) + '_' + str(args.job_id) + '_'  + 'ips_exp'), 'w')
+PermissionError: [Errno 13] Permission denied: './results/test_results\\MSLR30K_1.0_100_1_ips_exp'

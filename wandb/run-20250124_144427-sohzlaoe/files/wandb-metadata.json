@@ -1,0 +1,54 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.8.15",
+  "startedAt": "2025-01-24T13:44:27.524584Z",
+  "args": [
+    "--risk",
+    "0",
+    "--noise",
+    "0.5",
+    "--job_id",
+    "1",
+    "--dataset",
+    "MSLR30K",
+    "--num_sessions",
+    "100",
+    "--T",
+    "1.0"
+  ],
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "https://github.com/VidakGrujic/cikm-safeultr-master.git",
+    "commit": "f81b0c0177019b1f7f5807fdfabd0df25245ab0d"
+  },
+  "email": "e12332263@student.tuwien.ac.at",
+  "root": "D:\\Exercise 2\\cikm-safeultr-master",
+  "host": "DESKTOP-7BNGB9J",
+  "executable": "C:\\Users\\Vidak\\miniconda3\\envs\\myenv\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce GTX 1650 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "270936305664",
+      "used": "198367133696"
+    }
+  },
+  "memory": {
+    "total": "16945111040"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1650 Ti",
+      "memoryTotal": "4294967296",
+      "cudaCores": 1024,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.6"
+}

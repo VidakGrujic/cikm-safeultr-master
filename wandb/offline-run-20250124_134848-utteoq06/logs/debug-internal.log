@@ -1,0 +1,15 @@
+{"time":"2025-01-24T13:48:48.1963343+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-24T13:48:48.1963343+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250124_134848-utteoq06\\logs\\debug-core.log"}
+{"time":"2025-01-24T13:48:48.3031533+01:00","level":"INFO","msg":"created new stream","id":"utteoq06"}
+{"time":"2025-01-24T13:48:48.3031533+01:00","level":"INFO","msg":"stream: started","id":"utteoq06"}
+{"time":"2025-01-24T13:48:48.3031533+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"utteoq06"}
+{"time":"2025-01-24T13:48:48.3031533+01:00","level":"INFO","msg":"sender: started","stream_id":"utteoq06"}
+{"time":"2025-01-24T13:48:48.3031533+01:00","level":"INFO","msg":"handler: started","stream_id":"utteoq06"}
+{"time":"2025-01-24T13:48:48.3114048+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T13:49:07.6426112+01:00","level":"INFO","msg":"stream: closing","id":"utteoq06"}
+{"time":"2025-01-24T13:49:07.6426112+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T13:49:07.6443921+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T13:49:07.6449323+01:00","level":"INFO","msg":"handler: closed","stream_id":"utteoq06"}
+{"time":"2025-01-24T13:49:07.6449323+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"utteoq06"}
+{"time":"2025-01-24T13:49:07.6456213+01:00","level":"INFO","msg":"sender: closed","stream_id":"utteoq06"}
+{"time":"2025-01-24T13:49:07.6456213+01:00","level":"INFO","msg":"stream: closed","id":"utteoq06"}

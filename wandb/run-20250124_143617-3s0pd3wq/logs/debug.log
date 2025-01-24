@@ -1,0 +1,27 @@
+2025-01-24 14:36:17,925 INFO    MainThread:7072 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2025-01-24 14:36:17,925 INFO    MainThread:7072 [wandb_setup.py:_flush():68] Configure stats pid to 7072
+2025-01-24 14:36:17,925 INFO    MainThread:7072 [wandb_setup.py:_flush():68] Loading settings from C:\Users\Vidak\.config\wandb\settings
+2025-01-24 14:36:17,925 INFO    MainThread:7072 [wandb_setup.py:_flush():68] Loading settings from D:\Exercise 2\cikm-safeultr-master\wandb\settings
+2025-01-24 14:36:17,925 INFO    MainThread:7072 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-24 14:36:17,925 INFO    MainThread:7072 [wandb_setup.py:_flush():68] wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_setup.py:_flush():68] wandb: Currently logged in as: e12332263 (e12332263-tu-wien). Use `wandb login --relogin` to force relogin
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_init.py:_log_setup():528] Logging user logs to D:\Exercise 2\cikm-safeultr-master\wandb\run-20250124_143617-3s0pd3wq\logs\debug.log
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_init.py:_log_setup():529] Logging internal logs to D:\Exercise 2\cikm-safeultr-master\wandb\run-20250124_143617-3s0pd3wq\logs\debug-internal.log
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_init.py:init():644] calling init triggers
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {}
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_init.py:init():680] starting backend
+2025-01-24 14:36:17,926 INFO    MainThread:7072 [wandb_init.py:init():684] sending inform_init request
+2025-01-24 14:36:17,943 INFO    MainThread:7072 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-01-24 14:36:17,943 INFO    MainThread:7072 [wandb_init.py:init():697] backend started and connected
+2025-01-24 14:36:17,944 INFO    MainThread:7072 [wandb_init.py:init():790] updated telemetry
+2025-01-24 14:36:17,988 INFO    MainThread:7072 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2025-01-24 14:36:18,427 ERROR   MainThread:7072 [wandb_init.py:init():849] encountered error: failed to upsert bucket: returned error 400 Bad Request: {"errors":[{"message":"you may not log runs directly to your organization, please try using your team entity","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2025-01-24 14:36:18,427 ERROR   MainThread:7072 [wandb_init.py:init():1308] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Users\Vidak\miniconda3\envs\myenv\lib\site-packages\wandb\sdk\wandb_init.py", line 1298, in init
+    return wi.init()
+  File "C:\Users\Vidak\miniconda3\envs\myenv\lib\site-packages\wandb\sdk\wandb_init.py", line 855, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 400 Bad Request: {"errors":[{"message":"you may not log runs directly to your organization, please try using your team entity","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2025-01-24 14:36:18,437 WARNING MsgRouterThr:7072 [router.py:message_loop():75] message_loop has been closed

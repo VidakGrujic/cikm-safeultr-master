@@ -1,0 +1,17 @@
+{"time":"2025-01-24T13:55:44.2257342+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-24T13:55:44.2257342+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250124_135544-ecgwspgl\\logs\\debug-core.log"}
+{"time":"2025-01-24T13:55:44.3383671+01:00","level":"INFO","msg":"created new stream","id":"ecgwspgl"}
+{"time":"2025-01-24T13:55:44.3383671+01:00","level":"INFO","msg":"stream: started","id":"ecgwspgl"}
+{"time":"2025-01-24T13:55:44.3383671+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ecgwspgl"}
+{"time":"2025-01-24T13:55:44.3383671+01:00","level":"INFO","msg":"sender: started","stream_id":"ecgwspgl"}
+{"time":"2025-01-24T13:55:44.3383671+01:00","level":"INFO","msg":"handler: started","stream_id":"ecgwspgl"}
+{"time":"2025-01-24T13:55:44.3465343+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T13:55:54.3469584+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-24T13:55:54.353305+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 18852"}
+{"time":"2025-01-24T13:56:11.2226195+01:00","level":"INFO","msg":"stream: closing","id":"ecgwspgl"}
+{"time":"2025-01-24T13:56:11.2226195+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T13:56:11.2242459+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T13:56:11.225398+01:00","level":"INFO","msg":"handler: closed","stream_id":"ecgwspgl"}
+{"time":"2025-01-24T13:56:11.225398+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ecgwspgl"}
+{"time":"2025-01-24T13:56:11.2260795+01:00","level":"INFO","msg":"sender: closed","stream_id":"ecgwspgl"}
+{"time":"2025-01-24T13:56:11.2260795+01:00","level":"INFO","msg":"stream: closed","id":"ecgwspgl"}

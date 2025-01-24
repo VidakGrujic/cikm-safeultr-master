@@ -1,0 +1,15 @@
+{"time":"2025-01-24T13:44:25.8616148+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-24T13:44:25.8616148+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250124_134425-agca5ezz\\logs\\debug-core.log"}
+{"time":"2025-01-24T13:44:25.9696523+01:00","level":"INFO","msg":"created new stream","id":"agca5ezz"}
+{"time":"2025-01-24T13:44:25.9696523+01:00","level":"INFO","msg":"stream: started","id":"agca5ezz"}
+{"time":"2025-01-24T13:44:25.9696523+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"agca5ezz"}
+{"time":"2025-01-24T13:44:25.9696523+01:00","level":"INFO","msg":"sender: started","stream_id":"agca5ezz"}
+{"time":"2025-01-24T13:44:25.9696523+01:00","level":"INFO","msg":"handler: started","stream_id":"agca5ezz"}
+{"time":"2025-01-24T13:44:25.9794118+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T13:49:07.6426112+01:00","level":"INFO","msg":"stream: closing","id":"agca5ezz"}
+{"time":"2025-01-24T13:49:07.6426112+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T13:49:07.6443921+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T13:49:07.6449323+01:00","level":"INFO","msg":"handler: closed","stream_id":"agca5ezz"}
+{"time":"2025-01-24T13:49:07.6449323+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"agca5ezz"}
+{"time":"2025-01-24T13:49:07.6456213+01:00","level":"INFO","msg":"sender: closed","stream_id":"agca5ezz"}
+{"time":"2025-01-24T13:49:07.6456213+01:00","level":"INFO","msg":"stream: closed","id":"agca5ezz"}

@@ -1,0 +1,18 @@
+{"time":"2025-01-24T15:09:02.779328+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-24T15:09:02.779328+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\run-20250124_150902-6pw4n7js\\logs\\debug-core.log"}
+{"time":"2025-01-24T15:09:02.8864748+01:00","level":"INFO","msg":"created new stream","id":"6pw4n7js"}
+{"time":"2025-01-24T15:09:02.8864748+01:00","level":"INFO","msg":"stream: started","id":"6pw4n7js"}
+{"time":"2025-01-24T15:09:02.8864748+01:00","level":"INFO","msg":"sender: started","stream_id":"6pw4n7js"}
+{"time":"2025-01-24T15:09:02.8864748+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"6pw4n7js"}
+{"time":"2025-01-24T15:09:02.887006+01:00","level":"INFO","msg":"handler: started","stream_id":"6pw4n7js"}
+{"time":"2025-01-24T15:09:03.2444819+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T15:12:33.2497211+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2025-01-24T15:12:33.257168+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 9492"}
+{"time":"2025-01-24T15:12:35.9910146+01:00","level":"INFO","msg":"stream: closing","id":"6pw4n7js"}
+{"time":"2025-01-24T15:12:35.9915401+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T15:12:35.9945016+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T15:12:36.6627684+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T15:12:36.8800476+01:00","level":"INFO","msg":"handler: closed","stream_id":"6pw4n7js"}
+{"time":"2025-01-24T15:12:36.8800476+01:00","level":"INFO","msg":"sender: closed","stream_id":"6pw4n7js"}
+{"time":"2025-01-24T15:12:36.8800476+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6pw4n7js"}
+{"time":"2025-01-24T15:12:36.88059+01:00","level":"INFO","msg":"stream: closed","id":"6pw4n7js"}
