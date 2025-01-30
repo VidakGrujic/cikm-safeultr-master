@@ -1,1 +1,0 @@
-{"epoch":5,"_wandb":{"runtime":259},"_timestamp":1.7377279468502011e+09,"_step":984,"utility loss":0,"test nDCG@5":0.0007217433543705261,"val-ce":-60.32810170782412,"regression model loss":10.318435564249427,"_runtime":250.1537887,"test nDCG@5-reg":0.0004192981591647546,"val-dcg@5":28.709057221100878}

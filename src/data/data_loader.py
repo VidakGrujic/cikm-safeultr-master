@@ -170,7 +170,7 @@ if __name__ == '__main__':
     ltr_dataloader = LTRLoggerDataLoader(qrel_path='<path_to/LTR_datasets/Yahoo/Fold1/train.txt', k=5, max_cand_size=120)
     train_dataloader = DataLoader(ltr_dataloader, batch_size=4,       #Use pin_memory to speed up data transfer to the GPU
                         shuffle=True, num_workers=2, pin_memory=True) # added pin_memory because of gpu optimization
-                        # added only 1 workers
+                        # added only 2 workers
     for i_batch, sample in enumerate(train_dataloader):
         print(sample)
 

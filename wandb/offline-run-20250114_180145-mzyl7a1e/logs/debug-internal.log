@@ -1,8 +1,0 @@
-{"time":"2025-01-14T18:01:46.0829891+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-01-14T18:01:46.083509+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250114_180145-mzyl7a1e\\logs\\debug-core.log"}
-{"time":"2025-01-14T18:01:46.2027829+01:00","level":"INFO","msg":"created new stream","id":"mzyl7a1e"}
-{"time":"2025-01-14T18:01:46.2027829+01:00","level":"INFO","msg":"stream: started","id":"mzyl7a1e"}
-{"time":"2025-01-14T18:01:46.2027829+01:00","level":"INFO","msg":"handler: started","stream_id":"mzyl7a1e"}
-{"time":"2025-01-14T18:01:46.2027829+01:00","level":"INFO","msg":"sender: started","stream_id":"mzyl7a1e"}
-{"time":"2025-01-14T18:01:46.2027829+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"mzyl7a1e"}
-{"time":"2025-01-14T18:01:46.2138426+01:00","level":"INFO","msg":"Starting system monitor"}

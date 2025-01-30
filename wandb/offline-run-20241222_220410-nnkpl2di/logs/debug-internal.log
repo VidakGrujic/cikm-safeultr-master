@@ -1,8 +1,0 @@
-{"time":"2024-12-22T22:04:10.5083783+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2024-12-22T22:04:10.5083783+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Vidak\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20241222_220410-nnkpl2di\\logs\\debug-core.log"}
-{"time":"2024-12-22T22:04:10.61739+01:00","level":"INFO","msg":"created new stream","id":"nnkpl2di"}
-{"time":"2024-12-22T22:04:10.61739+01:00","level":"INFO","msg":"stream: started","id":"nnkpl2di"}
-{"time":"2024-12-22T22:04:10.6182191+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"nnkpl2di"}
-{"time":"2024-12-22T22:04:10.6182191+01:00","level":"INFO","msg":"handler: started","stream_id":"nnkpl2di"}
-{"time":"2024-12-22T22:04:10.6182191+01:00","level":"INFO","msg":"sender: started","stream_id":"nnkpl2di"}
-{"time":"2024-12-22T22:04:10.6272918+01:00","level":"INFO","msg":"Starting system monitor"}

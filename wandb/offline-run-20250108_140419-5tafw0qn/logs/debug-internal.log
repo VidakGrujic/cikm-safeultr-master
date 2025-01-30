@@ -1,8 +1,0 @@
-{"time":"2025-01-08T14:04:19.3079635+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-01-08T14:04:19.3084683+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250108_140419-5tafw0qn\\logs\\debug-core.log"}
-{"time":"2025-01-08T14:04:19.4161985+01:00","level":"INFO","msg":"created new stream","id":"5tafw0qn"}
-{"time":"2025-01-08T14:04:19.4161985+01:00","level":"INFO","msg":"stream: started","id":"5tafw0qn"}
-{"time":"2025-01-08T14:04:19.4161985+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"5tafw0qn"}
-{"time":"2025-01-08T14:04:19.4161985+01:00","level":"INFO","msg":"handler: started","stream_id":"5tafw0qn"}
-{"time":"2025-01-08T14:04:19.4161985+01:00","level":"INFO","msg":"sender: started","stream_id":"5tafw0qn"}
-{"time":"2025-01-08T14:04:19.4248417+01:00","level":"INFO","msg":"Starting system monitor"}

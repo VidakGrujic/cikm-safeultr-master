@@ -1,8 +1,0 @@
-{"time":"2025-01-08T14:16:58.8995943+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-01-08T14:16:58.8995943+01:00","level":"INFO","msg":"created symlink","path":"D:\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20250108_141658-uw88x3no\\logs\\debug-core.log"}
-{"time":"2025-01-08T14:16:59.0063426+01:00","level":"INFO","msg":"created new stream","id":"uw88x3no"}
-{"time":"2025-01-08T14:16:59.0063426+01:00","level":"INFO","msg":"stream: started","id":"uw88x3no"}
-{"time":"2025-01-08T14:16:59.0063426+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"uw88x3no"}
-{"time":"2025-01-08T14:16:59.0068949+01:00","level":"INFO","msg":"handler: started","stream_id":"uw88x3no"}
-{"time":"2025-01-08T14:16:59.0068577+01:00","level":"INFO","msg":"sender: started","stream_id":"uw88x3no"}
-{"time":"2025-01-08T14:16:59.0142466+01:00","level":"INFO","msg":"Starting system monitor"}

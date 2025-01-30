@@ -1,8 +1,0 @@
-{"time":"2024-12-22T21:28:32.3556343+01:00","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2024-12-22T21:28:32.3556343+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Vidak\\Exercise 2\\cikm-safeultr-master\\wandb\\offline-run-20241222_212832-rpcbwibw\\logs\\debug-core.log"}
-{"time":"2024-12-22T21:28:32.4667513+01:00","level":"INFO","msg":"created new stream","id":"rpcbwibw"}
-{"time":"2024-12-22T21:28:32.4670128+01:00","level":"INFO","msg":"stream: started","id":"rpcbwibw"}
-{"time":"2024-12-22T21:28:32.4670853+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"rpcbwibw"}
-{"time":"2024-12-22T21:28:32.4671639+01:00","level":"INFO","msg":"handler: started","stream_id":"rpcbwibw"}
-{"time":"2024-12-22T21:28:32.4671639+01:00","level":"INFO","msg":"sender: started","stream_id":"rpcbwibw"}
-{"time":"2024-12-22T21:28:32.4760485+01:00","level":"INFO","msg":"Starting system monitor"}
